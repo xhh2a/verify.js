@@ -1,0 +1,24 @@
+{
+  "name": "verify.js",
+  "version": "0.1.0",
+  "description": "Additional validators on top of verify.js",
+  "main": "verify.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xhh2a/verify.js.git"
+  },
+  "author": "Richard (Xiaohui) Han",
+  "license": "CC-BY-ND-4.0",
+  "bugs": {
+    "url": "https://github.com/xhh2a/verify.js/issues"
+  },
+  "homepage": "https://github.com/xhh2a/verify.js#readme",
+  "dependencies": {
+    "lodash": "^4.15.0",
+    "moment": "^2.14.1",
+    "validate.js": "^0.10.0"
+  }
+}
